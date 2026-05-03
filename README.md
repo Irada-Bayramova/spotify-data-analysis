@@ -54,5 +54,3 @@ It helps identify which artists consistently achieve high listener engagement.
 - A small group of artists dominates streaming numbers.  
 - There is a noticeable gap between the highest and lowest performers within the top 10.  
 
-This analysis can be useful for understanding market trends and identifying high-performing artists in the music industry.
-
